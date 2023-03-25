@@ -14,4 +14,3 @@
     <img align="center" height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
    </div>
     
-![Snake animation](https://github.com/Matheus-Machaado/Matheus-Machaado/blob/output/github-contribution-grid-snake.svg)
