@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://matheus-machado-dev.com.br" target="_blank">Portfólio</a> •
   <a href="https://www.linkedin.com/in/matheus-machado12/" target="_blank">LinkedIn</a> •
-  <a href="mailto:matheus.machaado.dev@gmail.com">E-mail</a> •
   <a href="https://github.com/Matheus-Machaado" target="_blank">GitHub</a>
 </p>
 
@@ -59,12 +58,16 @@ Sou Desenvolvedor Full Stack com **3+ anos de vivência em tecnologia (desde 202
 
 ---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas
 
-![](https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/3-stats.svg)
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+</p>
 
 ---
+
+## 🐍 Snake (animação das contribuições)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/output/github-snake-dark.svg" />
