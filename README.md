@@ -61,10 +61,13 @@ Sou Desenvolvedor Full Stack com **3+ anos de vivência em tecnologia (desde 202
 
 ## Estatísticas do GitHub
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Matheus-Machaado&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Machaado&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
-</p>
+![](https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/3-stats.svg)
+
+![](https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![](https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ---
 
