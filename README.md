@@ -48,9 +48,6 @@ Sou Desenvolvedor Full Stack com **3+ anos de vivência em tecnologia (desde 202
 
 ## Destaques (o que vale ver)
 
-> Fixe seus melhores projetos no topo do perfil (Pinned).
-> Aqui vai um modelo de vitrine — substitua pelos seus links reais de repositórios/demos.
-
 - 🔗 <b>Portfólio</b> — https://matheus-machado-dev.com.br  
 - 🧰 <b>Central de Ferramentas</b> (case) — descrição do impacto + stack (sem dados sensíveis)  
 - 🤖 <b>Automação / Web Scraping</b> (demo público) — exemplos sem dados sensíveis  
