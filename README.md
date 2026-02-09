@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://matheus-machado-dev.com.br" target="_blank">Portfólio</a> •
   <a href="https://www.linkedin.com/in/matheus-machado12/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/Matheus-Machaado" target="_blank">GitHub</a>
+  <a href="https://api.whatsapp.com/send/?phone=5511910254958&text=Ol%C3%A1+Matheus%2C+vim+pelo+seu+portf%C3%B3lio+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+seus+servi%C3%A7os&type=phone_number&app_absent=0" target="_blank">WhatsApp</a>
 </p>
 
 <p align="center">
