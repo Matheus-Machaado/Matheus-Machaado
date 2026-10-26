@@ -9,6 +9,8 @@
 
 Sou desenvolvedor full stack: cuido do sistema inteiro, da tela que o cliente usa até o servidor que mantém tudo funcionando. Comecei na TI em 2022, passei de estagiário a desenvolvedor full stack na Ridolfinvest e hoje desenvolvo produtos completos e sistemas sob medida para negócios reais.
 
+Nunca fui o cara com mais facilidade. **Fui o que mais treinou.** Tem coisa que eu não sei na hora, mas o que cai na minha mão eu vou atrás até resolver, e aprendo no caminho.
+
 Formado em Análise e Desenvolvimento de Sistemas pela **FIAP** e fazendo MBA em Engenharia de Software na **USP**.
 
 ### Sistemas em produção
