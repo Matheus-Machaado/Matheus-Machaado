@@ -1,77 +1,40 @@
-<h1 align="center">Matheus Machado</h1>
-
-<p align="center">
-  <b>Desenvolvedor Full Stack</b> • React • Python • SQL • Automação & Web Scraping
-</p>
-
-<p align="center">
-  <a href="https://matheus-machado-dev.com.br" target="_blank">Portfólio</a> •
-  <a href="https://www.linkedin.com/in/matheus-machado12/" target="_blank">LinkedIn</a> •
-  <a href="https://api.whatsapp.com/send/?phone=5511910254958&text=Ol%C3%A1+Matheus%2C+vim+pelo+seu+portf%C3%B3lio+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+seus+servi%C3%A7os&type=phone_number&app_absent=0" target="_blank">WhatsApp</a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Python+%7C+SQL;Automacao+%26+Web+Scraping;Construindo+ferramentas+que+economizam+tempo" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## Sobre mim
-
-Sou Desenvolvedor Full Stack com **3+ anos de vivência em tecnologia (desde 2022)**, atuando do **Front-end (React/JS)** ao **Back-end e Dados (Python/SQL)** — com foco forte em **automação, web scraping** e construção de ferramentas internas que aceleram operações e reduzem trabalho manual.
-
-- 👨‍💻 Full Stack: React, JavaScript, HTML, CSS  
-- 🐍 Backend/Dados: Python, SQL, automações, scraping  
-- 🎓 Tecnólogo em ADS (FIAP) — concluído em 2024  
-- 🎓 MBA em Engenharia de Software (USP/ESALQ) — desde nov/2025  
-- 🚀 Em busca de desafios reais e evolução (produto, engenharia, qualidade e escala)
-
----
-
-## Stack principal
+<a href="https://matheus-machado-dev.com.br"><img src="./github-header.png" alt="Matheus Machado, desenvolvedor full stack. Você traz o problema, eu desenvolvo a solução." width="100%"></a>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" />
+  <a href="https://matheus-machado-dev.com.br"><img src="https://img.shields.io/badge/Portfólio-0c0b0a?style=for-the-badge&logo=googlechrome&logoColor=ff5631" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/matheus-machado12/"><img src="https://img.shields.io/badge/LinkedIn-0c0b0a?style=for-the-badge&logo=linkedin&logoColor=ff5631" alt="LinkedIn"></a>
+  <a href="https://wa.me/5511910254958"><img src="https://img.shields.io/badge/WhatsApp-0c0b0a?style=for-the-badge&logo=whatsapp&logoColor=ff5631" alt="WhatsApp"></a></p>
+
+### Sobre mim
+
+Sou desenvolvedor full stack: cuido do sistema inteiro, da tela que o cliente usa até o servidor que mantém tudo funcionando. Comecei na TI em 2022, passei de estagiário a desenvolvedor full stack na Ridolfinvest e hoje desenvolvo produtos completos e sistemas sob medida para negócios reais.
+
+Formado em Análise e Desenvolvimento de Sistemas pela **FIAP** e fazendo MBA em Engenharia de Software na **USP**.
+
+### Sistemas em produção
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| **[Abdou's Barber](https://abdousbarber.com.br)** | Gestão completa de uma barbearia de assinatura: agenda online, fila de espera, planos com cobrança automática, loja, financeiro e atendimento com IA no WhatsApp 24h. Tem [documentário do case](https://matheus-machado-dev.com.br/#case). | Next.js · TypeScript · Fastify · Prisma · PostgreSQL |
+| **[Tô na Porta](https://tonaporta.app)** | Delivery com três lados (cliente, loja com tela de cozinha e entregador com rota), Pix e cartão com comissão automática e pedido em tempo real. | Next.js · Fastify · PostgreSQL · Mercado Pago · WebSocket |
+| **[Psy Trekking](https://psy-trekking.com)** | Site em quatro idiomas com roteiros e reserva, mais painel financeiro dos guias. Lighthouse de 93 a 100. | Next.js · Fastify · PostgreSQL · Docker |
+| **[Casa Cheia](https://casacheia.netlify.app)** | Lista de presentes em que o apartamento vai se enchendo a cada presente reservado, com cenas geradas por IA. | Astro · SolidJS · Netlify Functions · Gemini |
+
+> O código desses sistemas é privado porque pertence aos clientes. Os sites estão no ar e os detalhes, com todas as telas, estão no [portfólio](https://matheus-machado-dev.com.br/#projetos).
+
+### Projetos abertos
+
+- **[flow-type](https://github.com/Matheus-Machaado/flow-type)**: ditado por voz para o Windows, a sua voz vira texto em qualquer aplicativo. Electron, TypeScript e React.
+- **[portfolio-2026](https://github.com/Matheus-Machaado/portfolio-2026)**: o meu portfólio, em HTML, CSS e JavaScript puros, com player de vídeo próprio.
+
+### Com o que eu trabalho
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,astro,nodejs,python,postgres,prisma,docker,git,figma&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Astro, Node.js, Python, PostgreSQL, Prisma, Docker, Git, Figma">
 </p>
 
-<b>Também uso:</b> Tailwind CSS, Bootstrap, VS Code, WordPress.
+**Integrações em produção:** WhatsApp com IA · Mercado Pago · PagBank · Google Gemini · Google Maps · Resend · robôs, web scraping e OCR
 
 ---
 
-## Destaques (o que vale ver)
-
-- 🔗 <b>Portfólio</b> — https://matheus-machado-dev.com.br  
-- 🧰 <b>Central de Ferramentas</b> (case) — descrição do impacto + stack (sem dados sensíveis)  
-- 🤖 <b>Automação / Web Scraping</b> (demo público) — exemplos sem dados sensíveis  
-- 📦 <b>Templates</b> — React starter, API REST em Python, utilitários SQL  
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/3-stats.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-</p>
-
----
-
-## 🐍 Snake (animação das contribuições)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Matheus-Machaado/Matheus-Machaado/output/github-snake.svg" />
-</picture>
-
----
-
-Se você procura alguém que resolve, automatiza e entrega: bora conversar.
+<sub>Tem um problema no seu negócio? Me chama no <a href="https://wa.me/5511910254958">WhatsApp</a> e a gente transforma a sua ideia em uma solução real.</sub>
