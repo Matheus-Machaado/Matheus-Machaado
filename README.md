@@ -20,7 +20,7 @@ Formado em Análise e Desenvolvimento de Sistemas pela **FIAP** e fazendo MBA em
 | **[Abdou's Barber](https://abdousbarber.com.br)** | Gestão completa de uma barbearia de assinatura: agenda online, fila de espera, planos com cobrança automática, loja, financeiro e atendimento com IA no WhatsApp 24h. Tem [documentário do case](https://matheus-machado-dev.com.br/#case). | Next.js · TypeScript · Fastify · Prisma · PostgreSQL |
 | **[Tô na Porta](https://tonaporta.app)** | Delivery com três lados (cliente, loja com tela de cozinha e entregador com rota), Pix e cartão com comissão automática e pedido em tempo real. | Next.js · Fastify · PostgreSQL · Mercado Pago · WebSocket |
 | **[Psy Trekking](https://psy-trekking.com)** | Site em quatro idiomas com roteiros e reserva, mais painel financeiro dos guias. Lighthouse de 93 a 100. | Next.js · Fastify · PostgreSQL · Docker |
-| **[Casa Cheia](https://casacheia.netlify.app)** | Lista de presentes em que o apartamento vai se enchendo a cada presente reservado, com cenas geradas por IA. | Astro · SolidJS · Netlify Functions · Gemini |
+| **[Casa Cheia](https://casacheia.netlify.app)** | Lista de presentes de chá de casa nova com cenas geradas por IA, reserva sem repetir presente e painel da anfitriã. | Astro · SolidJS · Netlify Functions · Gemini |
 
 > O código desses sistemas é privado porque pertence aos clientes. Os sites estão no ar e os detalhes, com todas as telas, estão no [portfólio](https://matheus-machado-dev.com.br/#projetos).
 
